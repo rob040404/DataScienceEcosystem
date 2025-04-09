@@ -1,4 +1,2 @@
 # DataScienceEcosystem
-Course: Tools for Data Science
-Module 6
-Final Assignment
+Sample of some of my projects 
